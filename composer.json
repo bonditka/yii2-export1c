@@ -16,8 +16,7 @@
     "source": "https://github.com/bonditka/export1c"
   },
   "require": {
-    "yiisoft/yii2": "~2.0.0",
-    "bonditka/yii2-task": "*"
+    "yiisoft/yii2": "~2.0.0"
   },
   "require-dev": {
     "vlucas/phpdotenv": "^2.0",
