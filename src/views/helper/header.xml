@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message xmlns:msg="http://www.1c.ru/SSL/Exchange/Message" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <msg:Header>
+        <msg:Format>http://v8.1c.ru/edi/edi_stnd/EnterpriseData/1.2</msg:Format>
+        <msg:CreationDate>2018-03-28T15:17:09</msg:CreationDate>
+        <msg:Confirmation>
+            <msg:ExchangePlan>СинхронизацияДанныхЧерезУниверсальныйФормат</msg:ExchangePlan>
+            <msg:To>БП</msg:To>
+            <msg:From>PI</msg:From>
+            <msg:MessageNo>0</msg:MessageNo>
+            <msg:ReceivedNo>0</msg:ReceivedNo>
+        </msg:Confirmation>
+        <msg:AvailableVersion>1.5</msg:AvailableVersion>
+        <msg:AvailableVersion>1.4</msg:AvailableVersion>
+        <msg:AvailableVersion>1.3</msg:AvailableVersion>
+        <msg:AvailableVersion>1.2</msg:AvailableVersion>
+    </msg:Header>
+    <Body xmlns="http://v8.1c.ru/edi/edi_stnd/EnterpriseData/1.2">
